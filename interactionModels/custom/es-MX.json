@@ -1,0 +1,80 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cierra crónicas de Londres",
+            "salir"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "que puedo hacer con esta skill",
+            "ayuda"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "LugaresTuristicosIntent",
+          "samples": [
+            "dime que lugares turisticos puedo visitar de londres",
+            "mencioname lugares turisticos de londres"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaTipicaIntent",
+          "samples": [
+            "dime que comida tipica puedo comer en londres",
+            "mencioname comida tipica de londres"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajeTipicoIntent",
+          "samples": [
+            "dime cual es el traje tipico de londres",
+            "mencioname el traje tipico de londres"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesIntent",
+          "samples": [
+            "dime los personajes sobresalientes de londres",
+            "mencioname los personajes sobresalientes de londres"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "quiero escuchar musica de londres",
+            "reproduce musica de londres"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DescripcionIntent",
+          "samples": [
+            "dame una descripcion de londres",
+            "podrias describirme londres"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "crónicas de londres"
+    }
+  }
+}
